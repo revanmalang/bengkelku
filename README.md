@@ -1,12 +1,32 @@
-Bengkel zakira Motor (Mobil Injeksi & Matic) motor - Tugas akhir UBSI
-MIT License
+# Bengkel Zakira Motor (Mobil Injeksi & Matic)
 
-Copyright (c) 2024 Moch Revano Budiansyah
+Dikembangkan oleh: **Moch Revano Budiansyah**  
+Copyright (c) 2024
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+Website untuk Bengkel Zakira Motor, yang melayani perbaikan mobil injeksi dan motor matic. Proyek ini dibuat sebagai tugas akhir untuk program studi di Universitas Bina Sarana Informatika (UBSI).
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## Deskripsi Proyek
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+Proyek ini bertujuan untuk membuat platform digital yang memudahkan pelanggan dalam mencari layanan perbaikan kendaraan, termasuk mobil injeksi dan motor matic. Fitur utama dari website ini termasuk:
+- Daftar layanan yang tersedia
+- Sistem pemesanan servis secara online
+- Halaman kontak dan lokasi bengkel
+- Desain responsif untuk akses dari perangkat apapun
 
-Source code ini HANYA DAPAT DIGUNAKAN untuk member G-Technology dan tidak diizinkan untuk disebarkan kepada pihak selain member. 
+## Fitur Utama
+- **Layanan Perbaikan**: Menampilkan daftar layanan bengkel untuk mobil injeksi dan motor matic, lengkap dengan deskripsi dan harga.
+- **Jadwal Servis**: Pelanggan dapat membuat janji servis dengan memilih waktu yang tersedia.
+- **Kontak dan Lokasi**: Menyediakan informasi kontak dan peta interaktif untuk memudahkan pelanggan menemukan bengkel.
+- **Responsif**: Website dapat diakses dengan baik di perangkat desktop, tablet, maupun mobile.
+
+## Teknologi yang Digunakan
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: PHP
+- **Database**: MySQL
+- **Framework**: Bootstrap (untuk desain responsif)
+
+## Instalasi
+
+1. Clone repository ini ke komputer Anda:
+   ```bash
+   git clone https://github.com/username/bengkel-zakira-motor.git

@@ -3,7 +3,7 @@
 Dikembangkan oleh: **Moch Revano Budiansyah**  
 Copyright (c) 2024
 
-Website untuk Bengkel Zakira Motor, yang melayani perbaikan mobil injeksi dan motor matic. Proyek ini dibuat sebagai tugas akhir untuk program studi di Universitas Bina Sarana Informatika (UBSI).
+Website untuk Bengkel Zakira Motor, yang melayani perbaikan mobil injeksi dan motor matic.
 
 ## Deskripsi Proyek
 
@@ -29,4 +29,4 @@ Proyek ini bertujuan untuk membuat platform digital yang memudahkan pelanggan da
 
 1. Clone repository ini ke komputer Anda:
    ```bash
-   git clone https://github.com/username/bengkel-zakira-motor.git
+   git clone https://github.com/revanmalang/bengkel-zakira-motor.git
